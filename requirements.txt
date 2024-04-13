@@ -1,4 +1,4 @@
 xgboost==2.0.3
 joblib==0.17.0
 shap
-setuptools < 60.0
+numpy==1.22.5
