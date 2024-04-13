@@ -4,3 +4,4 @@ shap
 numpy==1.19.5
 scikit-learn==1.0.1
 python==3.8.5
+setuptools < 60.0
