@@ -6,4 +6,4 @@ shap
 numpy==1.19.5
 scikit-learn==1.0.1
 matplotlib==3.3.2
-
+ipython==7.19.0
